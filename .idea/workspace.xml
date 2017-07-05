@@ -899,8 +899,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1932" height="1058" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1932" height="1058" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -974,8 +974,8 @@
         <state relative-caret-position="312">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1239,8 +1239,8 @@
         <state relative-caret-position="312">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="false" />
           </folding>
         </state>
       </provider>
