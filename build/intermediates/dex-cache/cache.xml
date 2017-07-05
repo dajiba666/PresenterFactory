@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\InstancePresenterFactory\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\InstancePresenterFactory\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\InstancePresenterFactory\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ded17afdce6dc36d9f9b67a238dea3f5ee4e58a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yang2\.gradle\caches\modules-2\files-2.1\com.google.auto\auto-common\0.3\4073ab16ab4aceb9a217273da6442166bf51ae16\auto-common-0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4073ab16ab4aceb9a217273da6442166bf51ae16">
+        <dex dex="E:\InstancePresenterFactory\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-common-0.3_5a014f05b36b354b2feee98d2c330d6eae6be294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yang2\.gradle\caches\modules-2\files-2.1\com.google.auto.service\auto-service\1.0-rc2\51033a5b8fcf7039159e35b6878f106ccd5fb35f\auto-service-1.0-rc2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="E:\InstancePresenterFactory\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-service-1.0-rc2_e7d2c036c60b71a8dbf7ca3f17d854307e035d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\InstancePresenterFactory\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="012801a9e8062ed13c2ddd9962a592ee0620716e">
+        <dex dex="E:\InstancePresenterFactory\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5592a2453063708b42eb735d7ad6cc63298e8bf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yang2\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.8.0\e858dc62ef484048540d27d36f3ec2177a3fa9b1\javapoet-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e858dc62ef484048540d27d36f3ec2177a3fa9b1">
+        <dex dex="E:\InstancePresenterFactory\app\build\intermediates\transforms\dex\debug\folders\1000\10\javapoet-1.8.0_5bb5691583f388a1db604c6c38a897f51883a1b0\classes.dex" />
+    </item>
+
+</items>
