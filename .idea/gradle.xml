@@ -8,6 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aop" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/apt" />
+            <option value="$PROJECT_DIR$/apt_lib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

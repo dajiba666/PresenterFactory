@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PresenterFactory.iml" filepath="$PROJECT_DIR$/.idea/modules/PresenterFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PresenterFactory.iml" filepath="$PROJECT_DIR$/PresenterFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt/apt.iml" filepath="$PROJECT_DIR$/apt/apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt_lib/apt_lib.iml" filepath="$PROJECT_DIR$/apt_lib/apt_lib.iml" />
     </modules>
   </component>
 </project>
