@@ -25,15 +25,16 @@ import myapp.apt_lib.apt.InstanceFactory;
 /**
  * Created by yang2 on 2017/7/4.
  */
-
+//实现统一接口
 public class IntanceProcess implements IProcess {
-
-    private static final String CLASS_NAME = "InstanceFactory";
-
+    //类名
+    private static final String CLASS_NAME = "PresenterFactory";
+    //方法名
     private static final String METHOD_NAME = "create";
 
     @Override
     public void process(RoundEnvironment roundEnv, AnnotationProcess process) {
+
         TypeSpec.Builder tb = TypeSpec.classBuilder(CLASS_NAME)
                 .addJavadoc("@创建presenter工厂类")
                 .addModifiers(Modifier.PUBLIC, Modifier.FINAL);
