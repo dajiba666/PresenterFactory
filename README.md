@@ -49,4 +49,8 @@ public class TextPresenter extends BasePresenter {
     }
 }
 ```
+
+最后找到InstanceProcess
+JavaFile javaFile = JavaFile.builder("填入你自己需要在哪里生成代码的包名",tb.build()).build();
+
 ## 以后就不需要像dagger2一样每次都需要写那些烦人的配置了~_~
